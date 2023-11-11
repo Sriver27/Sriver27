@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriver27" alt="sriver27" /></a> </p>
 
-- 🔭 I’m currently working on [Sugam Krishi](https://github.com/SayanKabir/Sugam-Krishi)
+- 🔭 I’m currently working on [HungerHead](https://github.com/Sriver27/HungerHead)
 
 - 🌱 I’m currently learning **Reactjs**
 
