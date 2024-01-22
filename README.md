@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👯 I’m looking to collaborate on [Dev connect](https://github.com/Sriver27/FlutterDev/tree/main/dev_connect)
-
 - 📫 How to reach me **https://www.linkedin.com/in/harsh-vardhan-jain-9074551b7/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1yJ7We4xit4B0ceLlQpMuoGHZ5sZWX2WpQNK7b1YyYCg/edit?usp=sharing](https://docs.google.com/document/d/1yJ7We4xit4B0ceLlQpMuoGHZ5sZWX2WpQNK7b1YyYCg/edit?usp=sharing)
